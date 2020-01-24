@@ -17,6 +17,7 @@ def get_movies(year):
     '''
 
     ## Getting the url
+    global url_original
     url = ('https://www.imdb.com/search/title/?title_type=feature&release_date=' + year + '-01-01,' +
            year + '-12-31&count=250')
     website = requests.get(url)
@@ -32,7 +33,8 @@ def get_movies(year):
     ## Filtering only movies list
     movies = soup.find_all('div', class_ = 'lister-item mode-advanced')
 
-    names, years, runtimes, genres, ratings, votes, gross, metascores = ([] for i in range(8))
+    names, years, runtimes, genres, ratings,\
+    votes, gross, metascores, directors, stars = ([] for i in range(10))
 
     total_movies = int(total_movies.replace('.',''))
 
@@ -42,10 +44,10 @@ def get_movies(year):
     if(total_movies%250 > 0):
         total_pages += 1
 
+    url_original = 'https://www.imdb.com'
+
     for page in range(1,total_pages+1):
-        if(page == 1):
-            url_original = 'https://www.imdb.com'
-        else:
+        if(page > 1):
             if(soup.find('a',class_='lister-page-next next-page') is not None):
                 url_next = soup.find('a',class_='lister-page-next next-page')['href']
                 url = url_original + url_next
@@ -100,23 +102,41 @@ def get_movies(year):
                 gross.append('')
                 #print('Gross not found for movie ' + str(i+1))
 
-            if (movies[i].find('div', class_='inline-block ratings-metascore') is not None):
+            if(movies[i].find('div', class_='inline-block ratings-metascore') is not None):
                 metascores.append(movies[i].find('div', class_='inline-block ratings-metascore').find_next('span').text)
             else:
                 metascores.append('')
                 # print('Metascore not found for movie ' + str(i+1))
 
+            if(movies[i].find('p',class_='') is not None):
+                directors.append(movies[i].find('p',class_='').find_next('a').text)
+            else:
+                directors.append('')
+                # print('Director not found for movie ' + str(i+1))
+
+            if(movies[i].find('p',class_='') is not None):
+                temp = movies[i].find('p',class_='').text.find('Stars:') + 5
+                stars.append(movies[i].find('p',class_='').text[temp:])
+            else:
+                stars.append('')
+                # print('Stars not found for movie ' + str(i+1))
+
+
+
+
         print('Page: ' + str(page) + '/' + str(total_pages) + ' ' + url)
 
 
-    movie_df = pd.DataFrame({'Title'   : names,
-                             'Year'    : years,
-                             'Genre'   : genres,
-                             'Runtime' : runtimes,
-                             'Rating'  : ratings,
-                             'Gross'   : gross,
-                             'Votes'   : votes,
-                             'Metascore': metascores})
+    movie_df = pd.DataFrame({'Title'    : names,
+                             'Year'     : years,
+                             'Genre'    : genres,
+                             'Runtime'  : runtimes,
+                             'Rating'   : ratings,
+                             'Gross'    : gross,
+                             'Votes'    : votes,
+                             'Metascore': metascores,
+                             'Director' : directors,
+                             'Stars'    : stars})
 
     print("Extracted " + str(total_movies) + " movies released on " + str(year) + " from imdb.com.")
 
