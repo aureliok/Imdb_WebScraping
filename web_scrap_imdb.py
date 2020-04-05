@@ -9,7 +9,7 @@ import pandas as pd
 import sys
 
 
-def get_movies(year):
+def get_movies(years):
     '''
     :param year: release year to scrape movies from imdb.com.
     :return: a pandas dataframe containing information of each movie's title,
@@ -18,8 +18,8 @@ def get_movies(year):
 
     ## Getting the url
     global url_original
-    url = ('https://www.imdb.com/search/title/?title_type=feature&release_date=' + year + '-01-01,' +
-           year + '-12-31&count=250')
+    url = ('https://www.imdb.com/search/title/?title_type=feature&release_date=' + years[0] + '-01-01,' +
+           years[1] + '-12-31&count=250')
     website = requests.get(url)
 
     soup = BeautifulSoup(website.content, 'html.parser')
@@ -138,7 +138,8 @@ def get_movies(year):
                              'Director' : directors,
                              'Stars'    : stars})
 
-    print("Extracted " + str(total_movies) + " movies released on " + str(year) + " from imdb.com.")
+    print("Extracted " + str(total_movies) + " movies released between " + str(years[0]) + ' and ' + str(years[1]) +
+          " from imdb.com.")
 
     return(movie_df)
 
@@ -147,14 +148,25 @@ def get_movies(year):
 if __name__ == '__main__':
     years = sys.argv[1:]
 
-    for year in years:
-        print('Extracting movies from ' + str(year))
-        path = './imdb/1. raw_data/movies_' + year + '.csv'
-        df = get_movies(year)
-        df.to_csv(path, index = False)
-        print('csv file written on ' + path)
+    print('Extracting movies from ' + str(years[0]) + ' to ' + str(years[1]))
+    path = './imdb/1. raw_data/movies_' + years[0] + '-' + years[1] + '.csv'
+    df = get_movies(years)
+    df.to_csv(path, index=False)
+    print('csv file written on ' + path)
 
     print('Done!')
+
+
+
+
+    # for year in years:
+    #     print('Extracting movies from ' + str(year))
+    #     path = './imdb/1. raw_data/movies_' + year + '.csv'
+    #     df = get_movies(year)
+    #     df.to_csv(path, index = False)
+    #     print('csv file written on ' + path)
+    #
+    # print('Done!')
 
 
 

@@ -3,7 +3,86 @@
   <component name="ChangeListManager">
     <list default="true" id="30446971-1dc8-44fe-8d76-b6cd927bcb52" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1980.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1980.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1981.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1981.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1982.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1982.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1983.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1983.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1984.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1984.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1985.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1985.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1986.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1986.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1987.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1987.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1988.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1988.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1989.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1989.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1990.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1990.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1991.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1991.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1992.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1992.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1993.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1993.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1994.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1994.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1995.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1995.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1996.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1996.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1997.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1997.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1998.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1998.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_1999.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_1999.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2000.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2000.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2001.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2001.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2002.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2002.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2003.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2003.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2004.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2004.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2005.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2005.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2006.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2006.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2007.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2007.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2008.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2008.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2009.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2009.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2010.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2010.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2011.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2011.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2012.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2012.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2013.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2013.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2014.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2014.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2015.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2015.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2018.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imdb/1. raw_data/movies_2019.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/1. raw_data/movies_2019.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1980.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1980.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1981.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1981.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1982.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1982.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1983.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1983.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1984.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1984.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1985.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1985.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1986.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1986.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1987.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1987.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1988.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1988.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1989.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1989.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1990.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1990.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1991.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1991.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1992.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1992.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1993.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1993.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1994.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1994.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1995.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1995.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1996.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1996.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1997.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1997.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1998.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1998.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1999.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_1999.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2000.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2000.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2001.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2001.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2002.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2002.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2003.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2003.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2004.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2004.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2005.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2005.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2006.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2006.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2007.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2007.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2008.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2008.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2009.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2009.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2010.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2010.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2011.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2011.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2012.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2012.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2013.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2013.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2014.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2014.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2015.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2015.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2018.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2019.csv" beforeDir="false" afterPath="$PROJECT_DIR$/imdb/2. tidy_data/tidy_movies_2019.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_scrap_imdb.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scrap_imdb.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,10 +182,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="413" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579443665542" />
-    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1579561660670">
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1580079032153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579561660670" />
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580079032153" />
     <state width="1900" height="282" key="GridCell.Tab.0.bottom" timestamp="1579448488704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -127,10 +206,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="503" y="176" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579468426840" />
-    <state x="543" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1579565737629">
+    <state x="543" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1586121454161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="543" y="246" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579565737629" />
+    <state x="543" y="246" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586121454161" />
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1579823828580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
